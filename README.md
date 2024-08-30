@@ -46,11 +46,11 @@ To get started with any of the projects in this repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/aws-projects-repo.git
+   git clone https://github.com/ayushsharma-1/AWS-Amazon-Web-Services-Projects.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd aws-projects-repo/project-name
+   cd AWS-Amazon-Web-Services-Projects/project-name
    ```
 3. **Follow the setup instructions provided in the project's README.**
 
