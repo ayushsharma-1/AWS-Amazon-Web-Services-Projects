@@ -27,6 +27,7 @@ This repository is a showcase of my experience and experiments with AWS. It incl
 
 ### 1. **Small-Scale Projects**
    - **Project Name 1**: Image Storage and Metadata Management with AWS S3 and MongoDB
+   - **Project Name 2**: AWS Resource Usage Reporting: A Bash script to automate the reporting of AWS resource usage, including S3 buckets, EC2 instances, Lambda functions, and IAM users. The script is executed using Ubuntu Linux shell scripting, WSL, AWS CLI, and Bash.
 
 ### 2. **Large-Scale Projects**
    - **Project Name 1**: None.
@@ -38,7 +39,9 @@ This repository is a showcase of my experience and experiments with AWS. It incl
 - **AWS Services**: S3, Lambda, EC2, RDS, DynamoDB, API Gateway, etc.
 - **Programming Languages**: JavaScript, Python, Node.js, etc.
 - **Tools**: Docker, Terraform, CloudFormation, etc.
-- **Frameworks**: Serverless Framework, Express.js, etc.
+- **Frameworks**: Serverless Framework, Express.js,  AWS CLI, Bash scripting, Ubuntu Linux, Windows Subsystem for Linux (WSL).
+- **Languages**: Shell scripting
+
 
 ## Getting Started
 
