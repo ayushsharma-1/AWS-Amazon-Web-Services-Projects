@@ -1,5 +1,10 @@
 #!/bin/bash
-
+##############
+#Author:Ayush Sharma
+#Date:18-09-2024
+#Input: Username, Token, Repository Owner, Repository Name
+#Output: List of user who has access to the repository 
+##############
 # GitHub API URL
 API_URL="https://api.github.com"
 
