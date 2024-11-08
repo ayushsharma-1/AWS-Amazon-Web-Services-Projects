@@ -8,17 +8,6 @@ Here's a detailed README file content that you can use for your AWS projects rep
 
 Welcome to the AWS Projects Repository! This collection features a range of projects, from small-scale prototypes to large-scale, production-ready solutions, all developed using Amazon Web Services (AWS). Each project demonstrates different AWS services, architectures, and best practices for cloud computing.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects Overview](#projects-overview)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 This repository is a showcase of my experience and experiments with AWS. It includes a variety of projects, each aimed at solving specific problems or demonstrating the capabilities of different AWS services. Whether you're looking for examples of serverless architecture, scalable web applications, or complex data processing pipelines, you'll find something useful here.
