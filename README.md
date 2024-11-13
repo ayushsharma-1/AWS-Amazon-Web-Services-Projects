@@ -17,6 +17,7 @@ This repository is a showcase of my experience and experiments with AWS. It incl
 ### 1. **Small-Scale Projects**
    - **Project Name 1**: Image Storage and Metadata Management with AWS S3 and MongoDB
    - **Project Name 2**: AWS Resource Usage Reporting: A Bash script to automate the reporting of AWS resource usage, including S3 buckets, EC2 instances, Lambda functions, and IAM users. The script is executed using Ubuntu Linux shell scripting, WSL, AWS CLI, and Bash.
+   - **Project Name 3**: This repository contains a script (list_user.sh) that lists all the collaborators with read access (pull access) to a specified GitHub repository. The script uses GitHub's API to retrieve the list of collaborators and filters out those who have read permissions.
 
 ### 2. **Large-Scale Projects**
    - **Project Name 1**: None.
